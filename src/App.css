@@ -1,0 +1,21 @@
+.App {
+  font-family:'Courier New', Courier, monospace;
+}
+
+.toolbarClassName {
+  border: 1px solid #e1e1e1;
+  margin: 1rem;
+}
+
+.wrapperClassName {
+  border: 1px solid #e1e1e1;
+  padding: 1rem;
+  margin: 1rem;
+
+}
+
+.editorClassName {
+  border: 1px solid #e1e1e1;
+  padding: 1rem;
+  margin: 1rem;
+}
